@@ -37,7 +37,7 @@ _____________________________
 
 ## 7- Run Diamond with nr database or other subset DBs
     time diamond blastx -q BIO_merged.fq -d /media/D/bank/nr/nr.dmnd -o D_nr_BIO.daa -f 100 -p 25
-or  
+    #Or other Diamond subset database (e.g. virus)  
     time diamond blastx -q BIO_merged.fq -d /media/D/bank/Diamond/Vref-gb.dmnd -o BIO_RG.daa -f 100 -p 5  
     exit
 
