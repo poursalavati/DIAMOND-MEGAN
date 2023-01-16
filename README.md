@@ -1,7 +1,5 @@
 # DIAMOND-MEGAN
 Diamond-Megan analysis: a practical case study
-Journal Club
-21.10.22
 _____________________________
 
 ##  0- Login and data accessibility
